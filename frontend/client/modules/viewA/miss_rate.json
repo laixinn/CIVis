@@ -1,0 +1,318 @@
+"miss_rate": [
+      {
+        "feature": "MSSubClass",
+        "percentage": 0.0
+      },
+      {
+        "feature": "MSZoning",
+        "percentage": 0.0
+      },
+      {
+        "feature": "LotFrontage",
+        "percentage": 0.1773972602739726
+      },
+      {
+        "feature": "LotArea",
+        "percentage": 0.0
+      },
+      {
+        "feature": "Street",
+        "percentage": 0.0
+      },
+      {
+        "feature": "Alley",
+        "percentage": 0.9376712328767123
+      },
+      {
+        "feature": "LotShape",
+        "percentage": 0.0
+      },
+      {
+        "feature": "LandContour",
+        "percentage": 0.0
+      },
+      {
+        "feature": "Utilities",
+        "percentage": 0.0
+      },
+      {
+        "feature": "LotConfig",
+        "percentage": 0.0
+      },
+      {
+        "feature": "LandSlope",
+        "percentage": 0.0
+      },
+      {
+        "feature": "Neighborhood",
+        "percentage": 0.0
+      },
+      {
+        "feature": "Condition1",
+        "percentage": 0.0
+      },
+      {
+        "feature": "Condition2",
+        "percentage": 0.0
+      },
+      {
+        "feature": "BldgType",
+        "percentage": 0.0
+      },
+      {
+        "feature": "HouseStyle",
+        "percentage": 0.0
+      },
+      {
+        "feature": "OverallQual",
+        "percentage": 0.0
+      },
+      {
+        "feature": "OverallCond",
+        "percentage": 0.0
+      },
+      {
+        "feature": "YearBuilt",
+        "percentage": 0.0
+      },
+      {
+        "feature": "YearRemodAdd",
+        "percentage": 0.0
+      },
+      {
+        "feature": "RoofStyle",
+        "percentage": 0.0
+      },
+      {
+        "feature": "RoofMatl",
+        "percentage": 0.0
+      },
+      {
+        "feature": "Exterior1st",
+        "percentage": 0.0
+      },
+      {
+        "feature": "Exterior2nd",
+        "percentage": 0.0
+      },
+      {
+        "feature": "MasVnrType",
+        "percentage": 0.005479452054794521
+      },
+      {
+        "feature": "MasVnrArea",
+        "percentage": 0.005479452054794521
+      },
+      {
+        "feature": "ExterQual",
+        "percentage": 0.0
+      },
+      {
+        "feature": "ExterCond",
+        "percentage": 0.0
+      },
+      {
+        "feature": "Foundation",
+        "percentage": 0.0
+      },
+      {
+        "feature": "BsmtQual",
+        "percentage": 0.025342465753424658
+      },
+      {
+        "feature": "BsmtCond",
+        "percentage": 0.025342465753424658
+      },
+      {
+        "feature": "BsmtExposure",
+        "percentage": 0.026027397260273973
+      },
+      {
+        "feature": "BsmtFinType1",
+        "percentage": 0.025342465753424658
+      },
+      {
+        "feature": "BsmtFinSF1",
+        "percentage": 0.0
+      },
+      {
+        "feature": "BsmtFinType2",
+        "percentage": 0.026027397260273973
+      },
+      {
+        "feature": "BsmtFinSF2",
+        "percentage": 0.0
+      },
+      {
+        "feature": "BsmtUnfSF",
+        "percentage": 0.0
+      },
+      {
+        "feature": "TotalBsmtSF",
+        "percentage": 0.0
+      },
+      {
+        "feature": "Heating",
+        "percentage": 0.0
+      },
+      {
+        "feature": "HeatingQC",
+        "percentage": 0.0
+      },
+      {
+        "feature": "CentralAir",
+        "percentage": 0.0
+      },
+      {
+        "feature": "Electrical",
+        "percentage": 0.0006849315068493151
+      },
+      {
+        "feature": "1stFlrSF",
+        "percentage": 0.0
+      },
+      {
+        "feature": "2ndFlrSF",
+        "percentage": 0.0
+      },
+      {
+        "feature": "LowQualFinSF",
+        "percentage": 0.0
+      },
+      {
+        "feature": "GrLivArea",
+        "percentage": 0.0
+      },
+      {
+        "feature": "BsmtFullBath",
+        "percentage": 0.0
+      },
+      {
+        "feature": "BsmtHalfBath",
+        "percentage": 0.0
+      },
+      {
+        "feature": "FullBath",
+        "percentage": 0.0
+      },
+      {
+        "feature": "HalfBath",
+        "percentage": 0.0
+      },
+      {
+        "feature": "BedroomAbvGr",
+        "percentage": 0.0
+      },
+      {
+        "feature": "KitchenAbvGr",
+        "percentage": 0.0
+      },
+      {
+        "feature": "KitchenQual",
+        "percentage": 0.0
+      },
+      {
+        "feature": "TotRmsAbvGrd",
+        "percentage": 0.0
+      },
+      {
+        "feature": "Functional",
+        "percentage": 0.0
+      },
+      {
+        "feature": "Fireplaces",
+        "percentage": 0.0
+      },
+      {
+        "feature": "FireplaceQu",
+        "percentage": 0.4726027397260274
+      },
+      {
+        "feature": "GarageType",
+        "percentage": 0.05547945205479452
+      },
+      {
+        "feature": "GarageYrBlt",
+        "percentage": 0.05547945205479452
+      },
+      {
+        "feature": "GarageFinish",
+        "percentage": 0.05547945205479452
+      },
+      {
+        "feature": "GarageCars",
+        "percentage": 0.0
+      },
+      {
+        "feature": "GarageArea",
+        "percentage": 0.0
+      },
+      {
+        "feature": "GarageQual",
+        "percentage": 0.05547945205479452
+      },
+      {
+        "feature": "GarageCond",
+        "percentage": 0.05547945205479452
+      },
+      {
+        "feature": "PavedDrive",
+        "percentage": 0.0
+      },
+      {
+        "feature": "WoodDeckSF",
+        "percentage": 0.0
+      },
+      {
+        "feature": "OpenPorchSF",
+        "percentage": 0.0
+      },
+      {
+        "feature": "EnclosedPorch",
+        "percentage": 0.0
+      },
+      {
+        "feature": "3SsnPorch",
+        "percentage": 0.0
+      },
+      {
+        "feature": "ScreenPorch",
+        "percentage": 0.0
+      },
+      {
+        "feature": "PoolArea",
+        "percentage": 0.0
+      },
+      {
+        "feature": "PoolQC",
+        "percentage": 0.9952054794520548
+      },
+      {
+        "feature": "Fence",
+        "percentage": 0.8075342465753425
+      },
+      {
+        "feature": "MiscFeature",
+        "percentage": 0.963013698630137
+      },
+      {
+        "feature": "MiscVal",
+        "percentage": 0.0
+      },
+      {
+        "feature": "MoSold",
+        "percentage": 0.0
+      },
+      {
+        "feature": "YrSold",
+        "percentage": 0.0
+      },
+      {
+        "feature": "SaleType",
+        "percentage": 0.0
+      },
+      {
+        "feature": "SaleCondition",
+        "percentage": 0.0
+      }
+],

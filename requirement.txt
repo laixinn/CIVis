@@ -1,0 +1,5 @@
+Flask==2.2.2
+Flask-Cors==3.0.10
+scikit-learn==1.1.2
+fastdtw==0.3.4
+torch==1.8.1
